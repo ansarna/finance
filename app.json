@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Fitness",
+    "slug": "fitness-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true
+  }
+}
