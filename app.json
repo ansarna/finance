@@ -4,7 +4,17 @@
     "slug": "fitness-app",
     "version": "1.0.0",
     "orientation": "portrait",
+    "scheme": "fitness",
     "userInterfaceStyle": "dark",
-    "newArchEnabled": true
+    "backgroundColor": "#000000",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourname.fitness"
+    },
+    "android": {
+      "package": "com.yourname.fitness",
+      "backgroundColor": "#000000"
+    }
   }
 }
